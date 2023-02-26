@@ -1,3 +1,10 @@
+adwaita-icon-theme (43.0-2vanilla2) lunar; urgency=medium
+
+  * New upstream release
+
+ -- Mirko Brombin <send@mirko.pm>  Mon, 7 Nov 2022 11:28:00 +0200
+
+
 adwaita-icon-theme (43.0-2vanilla1) kinetic; urgency=medium
 
   * New upstream release
